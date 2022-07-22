@@ -1,5 +1,5 @@
 <h1 align="center">🔵 Mini projetos - React Native</h1>
-<p align="center">🔹 Os projetos tem como finalidade constatar conhecimento no framework Rect Native.💙</p>
+<p align="center">🔹 Os projetos tem como finalidade constatar conhecimento no framework React Native.💙</p>
 <h4 align="center"> 
 	🚧 Em construção...  🚧
 </h4>

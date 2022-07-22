@@ -49,7 +49,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [x] É possível especificar uma porcentagem de gorjeta personalizada de 0% a 30%, movendo o cursor  de um componente Slider.
 
 ## 💷 Screen Recording
-<img src=https://user-images.githubusercontent.com/101680141/178121643-3a57aba9-c055-4e87-b46d-218b1f3ae3b1.gif width="900px">
+<img src=https://user-images.githubusercontent.com/101680141/178121643-3a57aba9-c055-4e87-b46d-218b1f3ae3b1.gif width="400px">
 
 ## 💳 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -75,7 +75,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - IMC >= 30 para  obesidade.
 
 ## 🧍 Screen Recording
-<img src=https://user-images.githubusercontent.com/101680141/178114661-d850fac1-ef56-46bd-960c-61c73a6f3086.gif width="80px">
+<img src=https://user-images.githubusercontent.com/101680141/178114661-d850fac1-ef56-46bd-960c-61c73a6f3086.gif width="400px">
 
 ## 🧑‍🤝‍🧑 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -96,7 +96,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [x] Ao clicar em cada botão, a imagem é trocada.
 
 ## 🕳️ Screen Recording
-<img src=https://user-images.githubusercontent.com/101680141/178116177-86b86934-84f4-40da-b543-c7e957ee215c.gif width="80px">
+<img src=https://user-images.githubusercontent.com/101680141/178116177-86b86934-84f4-40da-b543-c7e957ee215c.gif width="400px">
 
 
 ## 🌶️ Pré-requisitos
@@ -124,7 +124,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - Escaleno: três lados diferentes.
 
 ## 🔻 Screen Recording
-<img src=https://user-images.githubusercontent.com/101680141/178120394-45a8a42e-9adb-46da-82b1-2c71ddd0a675.gif width="80px">
+<img src=https://user-images.githubusercontent.com/101680141/178120394-45a8a42e-9adb-46da-82b1-2c71ddd0a675.gif width="400px">
 
 ## 🔺 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
